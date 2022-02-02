@@ -1,0 +1,3168 @@
+Uri: https://around.createx.studio/
+File Name: C:\Downloaded Web Sites\around.createx.studio\index.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/404-illustration.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\404-illustration.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/404-simple.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\404-simple.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/about.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\about.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/account-notifications.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\account-notifications.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/account-payment.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\account-payment.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/account-profile.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\account-profile.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/blog-grid-ls.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\blog-grid-ls.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/blog-grid-ns.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\blog-grid-ns.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/blog-grid-rs.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\blog-grid-rs.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/blog-list-ls.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\blog-list-ls.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/blog-list-ns.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\blog-list-ns.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/blog-list-rs.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\blog-list-rs.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/blog-single-ls.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\blog-single-ls.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/blog-single-ns.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\blog-single-ns.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/blog-single-rs.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\blog-single-rs.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/checkout.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\checkout.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/coming-soon-illustration.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\coming-soon-illustration.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/coming-soon-image.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\coming-soon-image.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/accordion.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\accordion.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/alerts.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\alerts.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/badge.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\badge.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/blog-components.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\blog-components.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/breadcrumb.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\breadcrumb.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/btn-video.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\btn-video.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/button-group.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\button-group.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/buttons.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\buttons.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/cards.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\cards.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/carousel.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\carousel.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/charts.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\charts.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/code.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\code.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/collapse.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\collapse.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/contacts-card.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\contacts-card.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/countdown.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\countdown.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/date-picker.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\date-picker.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/dropdowns.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\dropdowns.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/forms.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\forms.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/frames.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\frames.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/gallery.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\gallery.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/hotspots.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\hotspots.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/icon-font.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\icon-font.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/images.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\images.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/input-group.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\input-group.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/list-group.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\list-group.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/modal.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\modal.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/navbar-offcanvas.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\navbar-offcanvas.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/navbar.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\navbar.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/offcanvas.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\offcanvas.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/pagination.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\pagination.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/parallax.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\parallax.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/pills.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\pills.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/placeholders.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\placeholders.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/popovers.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\popovers.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/portfolio-components.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\portfolio-components.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/pricing.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\pricing.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/progress.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\progress.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/shop-components.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\shop-components.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/social-buttons.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\social-buttons.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/spinners.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\spinners.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/tables.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\tables.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/tabs.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\tabs.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/team.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\team.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/testimonials.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\testimonials.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/toasts.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\toasts.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/tooltips.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\tooltips.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/typography.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\typography.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/utilities.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\utilities.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/components/widgets.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\components\widgets.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/contacts-v1.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\contacts-v1.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/contacts-v2.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\contacts-v2.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/contacts-v3.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\contacts-v3.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/css/theme.min.css
+File Name: C:\Downloaded Web Sites\around.createx.studio\css\theme.min.css
+Content Type: text/css
+
+Uri: https://around.createx.studio/dashboard-favorites.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\dashboard-favorites.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/dashboard-followers.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\dashboard-followers.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/dashboard-messages.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\dashboard-messages.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/dashboard-orders.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\dashboard-orders.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/dashboard-reviews.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\dashboard-reviews.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/dashboard-sales.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\dashboard-sales.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-booking-directory.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-booking-directory.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-business-consulting.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-business-consulting.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-coworking-space.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-coworking-space.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-creative-agency.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-creative-agency.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-event-landing.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-event-landing.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-food-blog.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-food-blog.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-marketing-seo.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-marketing-seo.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-mobile-app.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-mobile-app.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-personal-portfolio.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-personal-portfolio.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-product-gadget.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-product-gadget.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-product-software.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-product-software.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-shop-homepage.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-shop-homepage.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/demo-web-studio.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\demo-web-studio.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/autoprefixer.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\autoprefixer.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/changelog.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\changelog.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/components.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\components.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/credits.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\credits.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/dev-setup.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\dev-setup.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/global-colors.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\global-colors.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/install-vendor-plugin.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\install-vendor-plugin.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/mailchimp.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\mailchimp.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/navbar-footer.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\navbar-footer.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/project-structure.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\project-structure.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/ui-icons.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\ui-icons.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/using-preprocessors.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\using-preprocessors.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/utilities.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\utilities.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/docs/working-with-gulp.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\docs\working-with-gulp.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/fonts/around-icons.svg?enmnv5
+File Name: C:\Downloaded Web Sites\around.createx.studio\fonts\around-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/fonts/around-icons.ttf?enmnv5
+File Name: C:\Downloaded Web Sites\around.createx.studio\fonts\around-icons.ttf
+Content Type: font/ttf
+
+Uri: https://around.createx.studio/fonts/around-icons.woff?enmnv5
+File Name: C:\Downloaded Web Sites\around.createx.studio\fonts\around-icons.woff
+Content Type: font/woff
+
+Uri: https://around.createx.studio/help-single-topic.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\help-single-topic.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/help-submit-request.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\help-submit-request.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/help-topics.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\help-topics.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/img/account/cards/card-master.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\account\cards\card-master.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/account/cards/card-paypal.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\account\cards\card-paypal.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/account/cards/card-visa.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\account\cards\card-visa.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/account/cards/cards.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\account\cards\cards.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/account/signin-illustration.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\account\signin-illustration.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/account/signin-img.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\account\signin-img.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/07.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\07.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/avatar/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\avatar\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/avatar/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\avatar\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/avatar/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\avatar\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/avatar/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\avatar\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/avatar/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\avatar\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/avatar/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\avatar\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/comments/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\comments\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/comments/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\comments\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/comments/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\comments\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/single/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\single\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/single/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\single\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/single/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\single\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/single/author.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\single\author.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/single/th01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\single\th01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/single/th02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\single\th02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/single/th03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\single\th03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/th01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\th01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/th02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\th02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/th03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\th03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/th04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\th04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/blog/th05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\blog\th05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/alerts/alert-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\alerts\alert-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/cards/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\cards\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/cards/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\cards\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/cards/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\cards\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/cards/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\cards\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/carousel/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\carousel\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/carousel/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\carousel\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/carousel/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\carousel\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/carousel/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\carousel\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/th01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\th01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/th02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\th02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/th03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\th03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/th04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\th04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/th05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\th05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/th06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\th06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/gallery/th07.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\gallery\th07.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/hotspots/image.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\hotspots\image.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/images/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\images\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/images/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\images\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/images/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\images\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/jumbotron/jumbotron-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\jumbotron\jumbotron-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/parallax/a.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\parallax\a.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/components/parallax/bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\parallax\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/components/parallax/d.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\parallax\d.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/components/parallax/n.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\parallax\n.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/components/parallax/o.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\parallax\o.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/components/parallax/r.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\parallax\r.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/components/parallax/u.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\components\parallax\u.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/dashboard/avatar/main-sm.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\avatar\main-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/avatar/main.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\avatar\main.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/flags/argentina.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\flags\argentina.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/dashboard/flags/france.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\flags\france.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/dashboard/flags/india.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\flags\india.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/dashboard/flags/south-africa.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\flags\south-africa.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/dashboard/flags/sweden.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\flags\sweden.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/dashboard/flags/usa.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\flags\usa.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/dashboard/followers/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/abstract/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\abstract\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/abstract/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\abstract\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/abstract/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\abstract\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/abstract/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\abstract\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/animals/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\animals\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/animals/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\animals\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/animals/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\animals\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/animals/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\animals\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/architecture/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\architecture\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/architecture/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\architecture\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/architecture/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\architecture\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/architecture/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\architecture\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/cars/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\cars\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/cars/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\cars\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/cars/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\cars\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/cars/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\cars\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/cities/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\cities\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/cities/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\cities\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/cities/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\cities\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/cities/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\cities\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/nature/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\nature\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/nature/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\nature\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/nature/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\nature\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/followers/nature/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\followers\nature\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/messages/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\messages\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/messages/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\messages\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/messages/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\messages\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/messages/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\messages\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/messages/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\messages\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/messages/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\messages\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/messages/07.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\messages\07.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/messages/08.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\messages\08.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/messages/09.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\messages\09.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/07.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\07.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/08.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\08.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/09.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\09.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/10.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\10.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/dashboard/orders/11.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\dashboard\orders\11.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/booking/bg-pattern01.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\bg-pattern01.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/booking/bg-pattern02.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\bg-pattern02.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/booking/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/booking/icons/01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\icons\01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/booking/icons/02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\icons\02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/booking/icons/03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\icons\03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/booking/icons/04.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\icons\04.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/booking/icons/05.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\icons\05.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/booking/icons/06.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\icons\06.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/booking/illustration.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/booking/mobile.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/booking/offers/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\offers\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/booking/offers/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\offers\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/booking/offers/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\offers\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/booking/offers/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\offers\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/booking/offers/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\offers\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/booking/services-cover.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\booking\services-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/business-consulting/careers-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\careers-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/business-consulting/cta-bg.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\cta-bg.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/business-consulting/hero-img.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\hero-img.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/business-consulting/industries/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\industries\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/business-consulting/industries/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\industries\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/business-consulting/industries/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\industries\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/business-consulting/industries/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\industries\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/business-consulting/industries/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\industries\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/business-consulting/industries/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\industries\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/business-consulting/services/01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\services\01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/business-consulting/services/02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\services\02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/business-consulting/services/03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\services\03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/business-consulting/services/04.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\services\04.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/business-consulting/services/05.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\services\05.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/business-consulting/services/bg-shape.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\services\bg-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/business-consulting/testimonials/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\testimonials\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/business-consulting/testimonials/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\business-consulting\testimonials\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/th01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\th01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/th02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\th02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/th03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\th03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/th04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\th04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/th05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\th05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/gallery/th06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\gallery\th06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/24-hours.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\24-hours.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/360-tour.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\360-tour.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/building.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\building.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/cube.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\cube.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/living-room.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\living-room.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/open-book.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\open-book.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/parking.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\parking.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/router.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\router.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/sandwich.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\sandwich.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/shower.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\shower.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/table-tennis.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\table-tennis.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/icons/tv.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\icons\tv.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/illustration01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\illustration01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/illustration02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\illustration02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/coworking/map.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\map.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/coworking/virtual-tour-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\coworking\virtual-tour-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer04.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer04.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer05.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer05.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer06.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer06.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer07.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer07.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer08.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer08.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer09.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer09.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer10.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer10.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer11.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer11.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer12.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer12.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer13.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer13.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/creative-agency/parallax/layer14.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\parallax\layer14.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/services/01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\services\01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/services/02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\services\02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/services/03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\services\03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/creative-agency/services/04.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\creative-agency\services\04.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/event-landing/gallery/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\gallery\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/gallery/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\gallery\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/gallery/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\gallery\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/gallery/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\gallery\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/gallery/th01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\gallery\th01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/gallery/th02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\gallery\th02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/gallery/th03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\gallery\th03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/gallery/th04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\gallery\th04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/icons/01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\icons\01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/event-landing/icons/02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\icons\02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/event-landing/icons/03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\icons\03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/event-landing/map.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\map.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/01_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\01_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/01_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\01_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/02_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\02_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/02_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\02_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/03_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\03_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/03_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\03_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/04_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\04_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/04_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\04_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/05_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\05_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/05_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\05_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/06_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\06_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/06_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\06_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/07_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\07_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/07_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\07_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/08_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\08_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/partners/08_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\partners\08_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/people.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\people.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/event-landing/speakers/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\speakers\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/speakers/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\speakers\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/speakers/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\speakers\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/speakers/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\speakers\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/speakers/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\speakers\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/event-landing/video-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\event-landing\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/author.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\author.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/book.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\book.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/food-blog/categories/01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\categories\01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/food-blog/categories/02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\categories\02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/food-blog/categories/03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\categories\03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/food-blog/categories/04.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\categories\04.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/food-blog/categories/05.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\categories\05.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/food-blog/categories/06.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\categories\06.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/food-blog/featured-recipes/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\featured-recipes\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/featured-recipes/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\featured-recipes\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/featured-recipes/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\featured-recipes\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/featured-recipes/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\featured-recipes\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/hero/bg-m.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\hero\bg-m.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/hero/bg-shape.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\hero\bg-shape.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/food-blog/hero/bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\hero\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/instagram/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\instagram\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/instagram/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\instagram\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/instagram/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\instagram\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/instagram/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\instagram\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/instagram/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\instagram\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/instagram/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\instagram\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/posts/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\posts\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/posts/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\posts\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/posts/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\posts\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/posts/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\posts\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/posts/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\posts\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/posts/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\posts\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/posts/th/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\posts\th\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/posts/th/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\posts\th\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/posts/th/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\posts\th\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/videos/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\videos\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/videos/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\videos\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/food-blog/videos/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\food-blog\videos\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/amazon-cta.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\amazon-cta.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/hotspots/01_pink.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\hotspots\01_pink.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/hotspots/02_blue.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\hotspots\02_blue.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/hotspots/03_orange.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\hotspots\03_orange.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/hotspots/04_green.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\hotspots\04_green.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/icons/appointment.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\icons\appointment.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/icons/dental-care.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\icons\dental-care.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/icons/tooth-brush-2.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\icons\tooth-brush-2.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/icons/tooth-brush.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\icons\tooth-brush.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/icons/tooth.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\icons\tooth.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/icons/toothpaste.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\icons\toothpaste.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/image01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\image01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/image02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\image02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/instagram/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\instagram\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/instagram/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\instagram\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/instagram/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\instagram\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/instagram/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\instagram\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/logos/01_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\logos\01_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/logos/01_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\logos\01_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/logos/02_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\logos\02_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/logos/02_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\logos\02_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/logos/03_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\logos\03_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/logos/03_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\logos\03_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/logos/04_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\logos\04_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/logos/04_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\logos\04_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/logos/05_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\logos\05_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/logos/05_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\logos\05_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/gadget-landing/subscription-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\gadget-landing\subscription-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/about-img/badge.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\about-img\badge.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/about-img/image.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\about-img\image.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/about-img/lines.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\about-img\lines.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/about-img/shape.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\about-img\shape.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/case-studies/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\case-studies\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/case-studies/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\case-studies\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/case-studies/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\case-studies\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/01_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\01_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/01_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\01_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/02_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\02_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/02_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\02_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/03_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\03_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/03_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\03_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/04_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\04_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/04_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\04_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/05_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\05_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/05_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\05_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/06_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\06_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/clients/06_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\clients\06_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/hero/award-1.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\hero\award-1.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/hero/award-2.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\hero\award-2.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/hero/image.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\hero\image.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/hero/lines.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\hero\lines.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/hero/shape-1.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\hero\shape-1.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/hero/shape-2.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\hero\shape-2.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/hero/shape-3.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\hero\shape-3.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/hero/shape-4.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\hero\shape-4.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/services/01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\services\01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/services/02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\services\02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/services/03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\services\03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/services/04.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\services\04.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/marketing-seo/services/bg-shape.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\marketing-seo\services\bg-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/menu-banner.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\menu-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/mobile-app/device/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\mobile-app\device\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/mobile-app/device/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\mobile-app\device\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/mobile-app/device/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\mobile-app\device\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/mobile-app/faq-illustration.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\mobile-app\faq-illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/mobile-app/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\mobile-app\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/mobile-app/icons/01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\mobile-app\icons\01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/mobile-app/icons/02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\mobile-app\icons\02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/mobile-app/icons/03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\mobile-app\icons\03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/mobile-app/icons/04.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\mobile-app\icons\04.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/hero-illustration.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\hero-illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/portfolio/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\portfolio\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/portfolio/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\portfolio\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/portfolio/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\portfolio\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/portfolio/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\portfolio\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/portfolio/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\portfolio\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/portfolio/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\portfolio\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/services/01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\services\01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/services/02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\services\02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/services/03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\services\03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/services/illustration.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\services\illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/socials/bg-shape.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\socials\bg-shape.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/socials/figure-1.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\socials\figure-1.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/socials/figure-2.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\socials\figure-2.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/socials/figure-3.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\socials\figure-3.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/testimonials/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\testimonials\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/testimonials/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\testimonials\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/personal-portfolio/testimonials/illustration.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\personal-portfolio\testimonials\illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/booking.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\booking.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/business-consulting.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\business-consulting.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/coming.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\coming.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/coworking.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\coworking.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/creative-agency.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\creative-agency.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/event-landing.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\event-landing.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/food-blog.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\food-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/gadget-landing.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\gadget-landing.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/marketing-seo.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\marketing-seo.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/mobile-app.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\mobile-app.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/personal-portfolio.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\personal-portfolio.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/shop-homepage.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\shop-homepage.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/software-landing.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\software-landing.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/template-presentation.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\template-presentation.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/demos/web-studio.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\demos\web-studio.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/blog.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\blog.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/carousel.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\carousel.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/chart.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\chart.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/error-404.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\error-404.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/forms.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\forms.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/gallery.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\gallery.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/play.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\play.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/portfolio.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\portfolio.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/review.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\review.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/shopping-cart.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\shopping-cart.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/user.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\user.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/icons/web-page.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\icons\web-page.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/presentation/intro/bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\intro\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/intro/layer01.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\intro\layer01.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/intro/layer02.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\intro\layer02.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/intro/layer03.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\intro\layer03.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/intro/layer04.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\intro\layer04.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/intro/layer05.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\intro\layer05.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/intro/layer06.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\intro\layer06.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/intro/layer07.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\intro\layer07.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/intro/layer08.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\intro\layer08.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/intro/layer09.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\intro\layer09.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/macbook.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\macbook.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/presentation/mobile-screens.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\mobile-screens.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/presentation/qrcode.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\presentation\qrcode.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/banner.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\banner.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/hero/01.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\hero\01.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/hero/02.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\hero\02.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/hero/03.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\hero\03.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/instagram/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\instagram\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/instagram/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\instagram\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/instagram/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\instagram\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/instagram/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\instagram\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/thumbnails/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\thumbnails\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/thumbnails/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\thumbnails\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/thumbnails/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\thumbnails\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/thumbnails/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\thumbnails\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/thumbnails/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\thumbnails\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/shop-homepage/thumbnails/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\shop-homepage\thumbnails\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/01_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\01_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/01_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\01_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/02_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\02_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/02_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\02_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/03_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\03_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/03_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\03_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/04_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\04_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/04_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\04_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/05_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\05_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/05_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\05_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/06_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\06_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/clients/06_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\clients\06_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/cta-illustration.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\cta-illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/software-landing/features.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\features.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/software-landing/freelancer.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\freelancer.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/icons/01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\icons\01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/software-landing/icons/02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\icons\02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/software-landing/icons/03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\icons\03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/software-landing/icons/04.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\icons\04.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/software-landing/icons/05.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\icons\05.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/software-landing/icons/06.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\icons\06.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/software-landing/icons/07.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\icons\07.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/software-landing/slider/shape.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\slider\shape.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/slider/slide01.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\slider\slide01.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/slider/slide02.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\slider\slide02.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/slider/slide03.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\slider\slide03.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/team.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\team.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/demo/software-landing/video-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\software-landing\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/web-studio/cubes-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\web-studio\cubes-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/web-studio/services/01.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\web-studio\services\01.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/web-studio/services/02.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\web-studio\services\02.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/web-studio/services/03.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\web-studio\services\03.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/demo/web-studio/slider/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\web-studio\slider\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/web-studio/slider/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\web-studio\slider\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/demo/web-studio/slider/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\demo\web-studio\slider\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/docs/autoprefixer.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\docs\autoprefixer.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/docs/footer.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\docs\footer.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/docs/icomoon.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\docs\icomoon.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/docs/navbar.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\docs\navbar.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/docs/prepros.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\docs\prepros.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/docs/sass-variables.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\docs\sass-variables.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/docs/technologies.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\docs\technologies.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/docs/vendor-plugin.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\docs\vendor-plugin.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/flags/de.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\flags\de.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/flags/en.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\flags\en.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/flags/fr.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\flags\fr.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/flags/it.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\flags\it.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/footer/cards.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\footer\cards.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/logo/logo-dark.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\logo\logo-dark.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/logo/logo-footer-alt.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\logo\logo-footer-alt.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/logo/logo-footer.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\logo\logo-footer.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/logo/logo-icon-footer.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\logo\logo-icon-footer.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/logo/logo-icon.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\logo\logo-icon.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/logo/logo-light.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\logo\logo-light.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/pages/404/404-illustration.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\404\404-illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/pages/404/404-text.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\404\404-text.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/pages/about/bg-shape.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\about\bg-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/pages/coming-soon/bg-image.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\coming-soon\bg-image.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/pages/coming-soon/illustration.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\coming-soon\illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/img/pages/contacts/chicago.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\contacts\chicago.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/pages/contacts/map01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\contacts\map01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/pages/contacts/map02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\contacts\map02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/pages/contacts/map03.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\contacts\map03.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/pages/contacts/marker.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\contacts\marker.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/pages/contacts/newyork.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\contacts\newyork.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/pages/contacts/orlando.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\contacts\orlando.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/pages/contacts/page-title-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\contacts\page-title-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/pages/help-center/help-single-img.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\help-center\help-single-img.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/pages/help-center/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\pages\help-center\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/07.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\07.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/08.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\08.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/09.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\09.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/10.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\10.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/11.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\11.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/12.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\12.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/13.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\13.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/14.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\14.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/15.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\15.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/16.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\16.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/17.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\17.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/18.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\18.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/slider/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\slider\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/slider/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\slider\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/slider/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\slider\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/slider/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\slider\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/slider/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\slider\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th07.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th07.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th08.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th08.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th09.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th09.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th10.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th10.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/portfolio/single/th11.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\portfolio\single\th11.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/brands/01_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\01_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/01_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\01_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/02_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\02_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/02_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\02_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/03_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\03_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/03_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\03_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/04_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\04_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/04_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\04_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/05_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\05_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/05_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\05_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/06_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\06_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/06_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\06_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/07_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\07_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/07_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\07_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/08_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\08_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/08_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\08_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/09_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\09_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/09_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\09_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/10_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\10_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/10_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\10_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/11_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\11_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/11_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\11_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/12_color.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\12_color.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/brands/12_gray.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\brands\12_gray.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/cards.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\cards.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/catalog/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/07.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\07.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/08.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\08.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/09.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\09.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/10.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\10.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/11.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\11.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/12.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\12.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/13.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\13.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/14.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\14.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/15.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\15.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/16.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\16.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/catalog/17.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\catalog\17.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/categories/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\categories\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/categories/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\categories\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/categories/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\categories\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/categories/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\categories\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/paypal-button.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\paypal-button.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/paypal.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\paypal.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/single/gallery/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\single\gallery\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/single/gallery/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\single\gallery\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/single/gallery/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\single\gallery\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/single/gallery/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\single\gallery\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/single/gallery/th01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\single\gallery\th01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/single/gallery/th02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\single\gallery\th02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/single/gallery/th03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\single\gallery\th03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/single/gallery/th04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\single\gallery\th04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/shop/single/map.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\single\map.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/img/shop/single/video.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\shop\single\video.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/07.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\07.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/08.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\08.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/09.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\09.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/10.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\10.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/11.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\11.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/12.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\12.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/13.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\13.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/14.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\14.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/15.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\15.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/16.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\16.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/17.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\17.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/18.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\18.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/19.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\19.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/20.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\20.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/21.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\21.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/team/22.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\team\22.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/testimonials/01.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\testimonials\01.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/testimonials/02.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\testimonials\02.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/testimonials/03.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\testimonials\03.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/testimonials/04.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\testimonials\04.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/testimonials/05.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\testimonials\05.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/testimonials/06.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\testimonials\06.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/testimonials/07.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\testimonials\07.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/testimonials/08.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\testimonials\08.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/img/testimonials/09.jpg
+File Name: C:\Downloaded Web Sites\around.createx.studio\img\testimonials\09.jpg
+Content Type: image/jpeg
+
+Uri: https://around.createx.studio/index.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\index-1.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/js/theme.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\js\theme.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/order-tracking.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\order-tracking.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/password-recovery.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\password-recovery.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/portfolio-single-carousel.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\portfolio-single-carousel.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/portfolio-single-side-gallery-grid.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\portfolio-single-side-gallery-grid.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/portfolio-single-side-gallery-list.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\portfolio-single-side-gallery-list.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/portfolio-single-wide-gallery.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\portfolio-single-wide-gallery.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/portfolio-style-1.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\portfolio-style-1.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/portfolio-style-2.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\portfolio-style-2.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/portfolio-style-3.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\portfolio-style-3.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\around.createx.studio\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/shop-ls.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\shop-ls.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/shop-ns.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\shop-ns.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/shop-rs.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\shop-rs.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/shop-single.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\shop-single.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/signin-illustration.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\signin-illustration.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/signin-image.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\signin-image.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/signin-signup.html
+File Name: C:\Downloaded Web Sites\around.createx.studio\signin-signup.html
+Content Type: text/html
+
+Uri: https://around.createx.studio/site.webmanifest
+File Name: C:\Downloaded Web Sites\around.createx.studio\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://around.createx.studio/vendor/bootstrap/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\bootstrap\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/chartist/dist/chartist.min.css
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\chartist\dist\chartist.min.css
+Content Type: text/css
+
+Uri: https://around.createx.studio/vendor/chartist/dist/chartist.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\chartist\dist\chartist.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/cleave.js/dist/cleave.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\cleave.js\dist\cleave.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/flatpickr/dist/flatpickr.min.css
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\flatpickr\dist\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://around.createx.studio/vendor/flatpickr/dist/flatpickr.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\flatpickr\dist\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/flatpickr/dist/plugins/rangePlugin.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\flatpickr\dist\plugins\rangePlugin.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/imagesloaded/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\imagesloaded\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/jarallax/dist/jarallax-element.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\jarallax\dist\jarallax-element.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/jarallax/dist/jarallax.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\jarallax\dist\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/lg-fullscreen.js/dist/lg-fullscreen.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lg-fullscreen.js\dist\lg-fullscreen.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/lg-video.js/dist/lg-video.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lg-video.js\dist\lg-video.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/lg-zoom.js/dist/lg-zoom.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lg-zoom.js\dist\lg-zoom.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/lightgallery.js/dist/css/lightgallery.min.css
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lightgallery.js\dist\css\lightgallery.min.css
+Content Type: text/css
+
+Uri: https://around.createx.studio/vendor/lightgallery.js/dist/fonts/lg.svg?22t19m
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lightgallery.js\dist\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://around.createx.studio/vendor/lightgallery.js/dist/fonts/lg.ttf?22t19m
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lightgallery.js\dist\fonts\lg.ttf
+Content Type: font/ttf
+
+Uri: https://around.createx.studio/vendor/lightgallery.js/dist/fonts/lg.woff?22t19m
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lightgallery.js\dist\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://around.createx.studio/vendor/lightgallery.js/dist/img/loading.gif
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lightgallery.js\dist\img\loading.gif
+Content Type: image/gif
+
+Uri: https://around.createx.studio/vendor/lightgallery.js/dist/img/video-play.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lightgallery.js\dist\img\video-play.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/vendor/lightgallery.js/dist/img/vimeo-play.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lightgallery.js\dist\img\vimeo-play.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/vendor/lightgallery.js/dist/img/youtube-play.png
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lightgallery.js\dist\img\youtube-play.png
+Content Type: image/png
+
+Uri: https://around.createx.studio/vendor/lightgallery.js/dist/js/lightgallery.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\lightgallery.js\dist\js\lightgallery.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/nouislider/dist/nouislider.min.css
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\nouislider\dist\nouislider.min.css
+Content Type: text/css
+
+Uri: https://around.createx.studio/vendor/nouislider/dist/nouislider.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\nouislider\dist\nouislider.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/parallax-js/dist/parallax.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\parallax-js\dist\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/prismjs/components/prism-clike.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\components\prism-clike.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/prismjs/components/prism-core.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\components\prism-core.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/prismjs/components/prism-javascript.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\components\prism-javascript.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/prismjs/components/prism-markup.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\components\prism-markup.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/prismjs/components/prism-pug.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\components\prism-pug.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/prismjs/plugins/copy-to-clipboard/prism-copy-to-clipboard.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\plugins\copy-to-clipboard\prism-copy-to-clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/prismjs/plugins/line-numbers/prism-line-numbers.css
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\plugins\line-numbers\prism-line-numbers.css
+Content Type: text/css
+
+Uri: https://around.createx.studio/vendor/prismjs/plugins/line-numbers/prism-line-numbers.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\plugins\line-numbers\prism-line-numbers.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/prismjs/plugins/toolbar/prism-toolbar.css
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\plugins\toolbar\prism-toolbar.css
+Content Type: text/css
+
+Uri: https://around.createx.studio/vendor/prismjs/plugins/toolbar/prism-toolbar.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\plugins\toolbar\prism-toolbar.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/prismjs/themes/prism.css
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\prismjs\themes\prism.css
+Content Type: text/css
+
+Uri: https://around.createx.studio/vendor/shufflejs/dist/shuffle.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\shufflejs\dist\shuffle.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/simplebar/dist/simplebar.min.css
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\simplebar\dist\simplebar.min.css
+Content Type: text/css
+
+Uri: https://around.createx.studio/vendor/simplebar/dist/simplebar.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\simplebar\dist\simplebar.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\smooth-scroll\dist\smooth-scroll.polyfills.min.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/tiny-slider/dist/min/tiny-slider.js
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\tiny-slider\dist\min\tiny-slider.js
+Content Type: application/javascript
+
+Uri: https://around.createx.studio/vendor/tiny-slider/dist/tiny-slider.css
+File Name: C:\Downloaded Web Sites\around.createx.studio\vendor\tiny-slider\dist\tiny-slider.css
+Content Type: text/css
+
